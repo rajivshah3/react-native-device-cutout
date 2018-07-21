@@ -1,7 +1,6 @@
 
 package com.rajivshah.devicecutout;
 
-import android.app.Activity;
 import android.view.WindowManager.LayoutParams;
 import android.view.DisplayCutout;
 import android.graphics.Rect;
